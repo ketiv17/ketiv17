@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ketiv17
+- I'm a Hi-school student in CZ
+- Currently learning basics of C (Not in school)
+- Started using linux Before Win10 was released, and I've been happy with it ever since
+- Watching the framework laptop and waiting for it to start shipping in czech republic (starting to thing that I shoud wait for framework laptop v2)
